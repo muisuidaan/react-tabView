@@ -1,4 +1,8 @@
-# mshopping
+# vue图书搜索
+
+根据豆瓣api请求数据搜索图书，点击图书后切换路由，更换详情。
+上拉加载更多。
+
 
 > A Vue.js project
 
